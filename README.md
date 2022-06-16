@@ -1,3 +1,3 @@
 # Fullstackopen
-Helsingin yliopiston Fullstack-kurssin tehtävät
+Helsingin yliopiston Fullstack-kurssin tehtävät.
 
