@@ -47,7 +47,7 @@ const App = () => {
     else{
       const nameObject = {
         name: newName,
-        phone: newPhone,
+        number: newPhone,
       }
       
       personService
